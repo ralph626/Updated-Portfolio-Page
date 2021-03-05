@@ -1,0 +1,34 @@
+/* The * is to target the body tag */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  text-align: center;
+}
+
+.card1:hover {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.card1 {
+  transition: all 0.6s ease-in;
+  margin: 25px;
+}
+.card2:hover {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.card2 {
+  transition: all 0.6s ease-in;
+  margin: 25px;
+}
+.card3:hover {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.card3 {
+  transition: all 0.6s ease-in;
+  margin: 25px;
+}
